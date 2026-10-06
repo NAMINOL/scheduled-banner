@@ -1,8 +1,8 @@
 # Terms of Service / 利用規約
 
-Applies to: **Scheduled Banner for Jira** and **Scheduled Banner for Confluence** (the "Apps")
-Provider: NAMINOL LLC (NAMINOL合同会社)
-Last updated: 2026-10-06
+- Applies to: **Scheduled Banner for Jira** and **Scheduled Banner for Confluence** (the "Apps")
+- Provider: NAMINOL LLC (NAMINOL合同会社)
+- Last updated: 2026-10-06
 
 ## English
 
