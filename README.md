@@ -6,6 +6,8 @@ Schedule announcement banners in Jira and Confluence Cloud. Provided by NAMINOL 
 - [Terms of Service / 利用規約](TERMS.md)
 - [Security Policy / セキュリティ方針](SECURITY.md)
 - Support / お問い合わせ: masaki_hori@naminol.com
+  - Email only (no live or phone support). We reply within 3 business days (JST, excluding Japanese holidays).
+  - メールのみで受け付けます（チャット・電話のサポートはありません）。3営業日以内に返信します（土日祝を除く）。
 
 ## Scheduled Banner for Jira
 
