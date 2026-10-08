@@ -4,6 +4,7 @@ Schedule announcement banners in Jira and Confluence Cloud. Provided by NAMINOL 
 
 - [Privacy Policy / プライバシーポリシー](PRIVACY.md)
 - [Terms of Service / 利用規約](TERMS.md)
+- [Security Policy / セキュリティ方針](SECURITY.md)
 - Support / お問い合わせ: masaki_hori@naminol.com
 
 ## Scheduled Banner for Jira
