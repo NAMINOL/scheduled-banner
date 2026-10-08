@@ -17,7 +17,7 @@ Email masaki_hori@naminol.com. We acknowledge reports within 3 business days. Vu
 ## 2. Accounts and access
 
 - Multi-factor authentication is required on company email, GitHub, and the Atlassian accounts used to develop and publish the apps.
-- Passwords must be unique per service and at least 12 characters. Using a password manager is recommended.
+- Passwords are unique per service, at least 12 characters, and kept in a password manager.
 - Only the people who need it get access to the Atlassian developer console, Marketplace partner account, GitHub organization and company email.
 - Access is reviewed every quarter and removed promptly when someone leaves.
 
@@ -86,7 +86,7 @@ We do not apply AI/ML algorithms to Atlassian or customer data, and no subproces
 ## 日本語の要約
 
 - **前提**：アプリは Atlassian Forge 上だけで動き、外部への通信はなく、自社サーバーも持ちません。
-- **アカウント**：メール・GitHub・Atlassian は2段階認証を必須にします。パスワードはサービスごとに別にし、12文字以上にします。アクセス権は四半期ごとに見直します。
+- **アカウント**：メール・GitHub・Atlassian は2段階認証を必須にします。パスワードはサービスごとに別にし、12文字以上で、パスワードマネージャーで管理します。アクセス権は四半期ごとに見直します。
 - **作業用 PC**：FileVault、自動アップデート、OS 標準のマルウェア対策を有効にします。
 - **開発**：リリースのたびに lint、npm audit、開発サイトでのテストを行います。
 - **脆弱性の修正期限**：Atlassian の規定に従います（Critical 10日 / High 4週 / Medium 12週 / Low 25週）。
