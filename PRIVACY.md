@@ -15,7 +15,7 @@
 3. **Use of data**: Only to show and hide announcement banners.
 4. **Sharing**: We do not sell or share any data with third parties.
 5. **Deletion**: Uninstalling the Apps does not remove data stored in your site. Delete announcements from the App's admin page. For the Confluence app, also remove the `announcement-banner` label from the storage space.
-6. **Contact**: masaki_hori@naminol.com
+6. **Contact**: support@naminol.com
 
 ## 日本語
 
@@ -28,6 +28,6 @@
 3. **利用目的**：お知らせバナーの表示・非表示のためだけに使用します。
 4. **第三者提供**：行いません。
 5. **削除**：アンインストールしても、サイト内に保存したデータは残ります。管理画面からお知らせを削除してください。Confluence 版は、保存先スペースのラベル `announcement-banner` も外してください。
-6. **お問い合わせ**：masaki_hori@naminol.com
+6. **お問い合わせ**：support@naminol.com
 
 NAMINOL合同会社の一般的なプライバシーポリシー: https://naminol.com/privacy-policy

@@ -12,7 +12,7 @@
 4. To the extent permitted by law, the provider is not liable for any damages arising from the use of the Apps.
 5. The provider may change or discontinue the Apps without prior notice.
 6. These terms are governed by the laws of Japan.
-7. Contact: masaki_hori@naminol.com
+7. Contact: support@naminol.com
 
 ## 日本語
 
@@ -22,4 +22,4 @@
 4. 本アプリの利用によって生じた損害について、提供者は法令で認められる範囲で責任を負いません。
 5. 提供者は、事前の通知なく本アプリの内容を変更し、または提供を終了することがあります。
 6. 本規約は日本法に準拠します。
-7. お問い合わせ：masaki_hori@naminol.com
+7. お問い合わせ：support@naminol.com

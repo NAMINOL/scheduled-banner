@@ -6,7 +6,7 @@
 
 ## Reporting a vulnerability
 
-Email masaki_hori@naminol.com. We acknowledge reports within 3 business days. Vulnerabilities reported through the Atlassian Marketplace Security (AMS) project are handled the same way.
+Email support@naminol.com. We acknowledge reports within 3 business days. Vulnerabilities reported through the Atlassian Marketplace Security (AMS) project are handled the same way.
 
 ## 1. Scope and architecture
 
